@@ -1,0 +1,6 @@
+print("Como estas'")
+print("Miau")
+print("Supongo que la vida es asi de interesante, verdad?")
+print("Miau")
+print("Bueno, volvere al trabajo, nos vemos")
+print("Miau")
