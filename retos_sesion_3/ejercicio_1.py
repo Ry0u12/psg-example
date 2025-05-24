@@ -1,0 +1,1 @@
+print("Haruhikage from Mygo")
